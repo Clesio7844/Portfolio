@@ -116,6 +116,7 @@ header{
 .nav-area li a{
     color: #ffffff;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 
